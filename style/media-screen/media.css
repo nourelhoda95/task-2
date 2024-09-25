@@ -1,0 +1,72 @@
+
+
+/*xsmall devices*/
+
+@media all  and (min-width:249px){
+
+
+} 
+
+
+/*small devices*/
+@media all  and (min-width:576px){
+
+
+
+
+
+
+
+
+  }
+
+
+  @media all  and (min-width:640px){
+
+
+
+
+  }
+/*medium devices*/
+
+  @media all  and (min-width:768px){
+    
+    
+
+    
+      
+  }
+
+
+/*large devices*/
+
+  @media all  and (min-width:992px){
+  
+  }
+
+
+/*xlarge devices*/
+    
+  @media all  and (min-width: 1200px){
+  
+  
+
+  
+      
+  }
+
+
+
+
+
+  
+/*x x large devices*/
+    
+@media all  and (min-width:1400px){
+  
+
+}
+
+@media all  and (min-width:1536px){
+
+}
